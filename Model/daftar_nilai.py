@@ -1,6 +1,5 @@
 x = {}
 
-
 def tambah(nama, nim, tugas, uts, uas):
     akhir = tugas * 30 / 100 + uts * 35 / 100 + uas * 35 / 100
     x[nama] = nim, tugas, uts, uas, akhir
