@@ -9,15 +9,19 @@ __Kelas : T1.22.B2__
 
 # Buatlah package dan modul dengan struktur seperti berikut:
 
--daftar_nilai.py berisi modul untuk tambah data, ubah data, cari data, hapus data
+✓ daftar_nilai.py berisi modul untuk:
 
--cetak_nilai.py berisi modul untuk cetak daftar nilai, cetak hasil pencarian
+tambah_data, ubah_data, hapus_data,dan cari_data
 
--input_nilai.py berisi modul untuk input data yang diminta pengguna untuk memasukkan data
+✓ view_nilai.py berisi modul untuk:
 
--main.py berisi program secara keseluruhan
+cetak_daftar_nilai, cetak_hasil_pencarian
 
--Susunan package dan modul nya akan terlihat seperti di bawah ini
+✓ input_nilai.py berisi modul untuk:
+
+input_data yang meminta pengguna memasukkan data.
+
+✓ main.py berisi program utama (menu pilihan yang memanggil semua menu yang ada)
 
 # Lembar soal UAS
 
