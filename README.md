@@ -143,18 +143,18 @@ while True:
 
 - dibawah ini adalah hasil program ketika  input data dan menambahkan data
 
-![gambar 2](screenshot/output1.png)
+![Image](SC/SC2.PNG)
 
 - dibawah ini adalah hasil program ketika menghapus data
 
-![gambar3](screenshot/output2.png)
+![Image](SC/SC3.PNG)
 
-- dibawah ini adalah hhasil program ketika mengubah data
+- dibawah ini adalah hasil program ketika mengubah data
 
-![gambar4](screenshot/output3.png)
+![Image](SC/SC4.PNG)
 
 -  dibawah ini adalah contoh ketika salah memasukan kode
 
-![gambar5](screenshot/output4.png)
+![Image](SC/SC5.PNG)
 
 # SELESAI
