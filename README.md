@@ -1,10 +1,10 @@
 # Project UAS Bahasa Pemprograman
 
-Nama    : Muhamad Ali M
+__Nama  : Muhamad Ali Mubarok__
 
-Nim     : 312210540
+__Nim   : 312210540__
 
-Kelas   : T1.22.B2
+__Kelas : T1.22.B2__
 
 ## Buatlah package dan modul dengan struktur seperti berikut:
 -daftar_nilai.py berisi modul untuk tambah data, ubah data, cari data, hapus data
