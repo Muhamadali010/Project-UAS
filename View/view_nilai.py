@@ -1,4 +1,4 @@
-from model.daftar_nilai import x
+from modul.daftar_nilai import x
 def header():
     print("===========================")
     print("|   Program Input Nilai   |")
