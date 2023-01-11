@@ -1,18 +1,12 @@
 from model.daftar_nilai import x
-
-
 def header():
     print("===========================")
     print("|   Program Input Nilai   |")
     print("===========================")
-
-
 def kode_salah():
     CRED = '\033[91m'
     CEND = '\033[0m'
     print(CRED + "KODE YANG ANDA MASUKKAN SALAH!\nSILAHKAN INPUT ULANG KODE YANG BENAR." + CEND)
-
-
 def tampilkan():
     if x.items():
         print("---------------------------------------------------------------------------------")
@@ -34,8 +28,6 @@ def tampilkan():
         print("---------------------------------------------------------------------------------")
         print("|                                TIDAK ADA DATA                                 |")
         print("---------------------------------------------------------------------------------")
-
-
 def cari():
     from view.input_nilai import cari
     cari()

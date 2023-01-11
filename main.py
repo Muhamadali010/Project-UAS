@@ -1,6 +1,5 @@
 from view.view_nilai import cari, tampilkan, header, kode_salah
 from view.input_nilai import input_data, ubah_data, hapus_data
-
 header()
 while True:
     c = input("L)ihat, T)ambah, U)bah, H)apus, C)ari K)eluar: ")
