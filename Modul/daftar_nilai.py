@@ -19,7 +19,7 @@ def ubah(nama):
         print("Nama{0} Tidak Ditemukan".format(nama))
 def cari(nama):
     if nama in x.keys():
-        print("---------------------------------------------------------------------------------")
+        print("----------------------------------------------------------------------------------")
         print("\n                               DAFTAR NILAI MAHASISWA                    ")
         print("---------------------------------------------------------------------------------")
         print("|      Nama      |     NIM     |  Tugas  |   UTS   |   UAS   |    Akhir    |")

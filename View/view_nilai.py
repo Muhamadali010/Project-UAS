@@ -9,7 +9,7 @@ def kode_salah():
     print(CRED + "KODE YANG ANDA MASUKKAN SALAH!\nSILAHKAN INPUT ULANG KODE YANG BENAR." + CEND)
 def tampilkan():
     if x.items():
-        print("---------------------------------------------------------------------------------")
+        print("----------------------------------------------------------------------------------")
         print("\n                               DAFTAR NILAI MAHASISWA                    ")
         print("---------------------------------------------------------------------------------")
         print("| No |      Nama      |     NIM     |  Tugas  |   UTS   |   UAS   |    Akhir    |")
