@@ -1,10 +1,10 @@
 # Project UAS Bahasa Pemprograman
 
-__Nama  : Muhamad Ali Mubarok__
+__Nama   : Muhamad Ali Mubarok__
 
-__Nim   : 312210540__
+__Nim    : 312210540__
 
-__Kelas : T1.22.B2__
+__Kelas  : T1.22.B2__
 
 
 # Buatlah package dan modul dengan struktur seperti berikut:
